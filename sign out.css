@@ -43,6 +43,9 @@ li{
     padding: 0%;
 }
 .sign{
-    background-color: black;
-    margin: auto;
+    background-color: white;
+    padding-left: 700px;
+}
+.sign{
+    block-size: 50px;
 }
