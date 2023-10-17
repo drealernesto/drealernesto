@@ -1,0 +1,33 @@
+.contain{
+    display: flex;
+    align-content: center;
+    background-color: blue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    gap: 20px;
+    padding: 50px;
+
+
+}
+.contain2{
+    display: flex;
+    align-content: center;
+    background-color:brown;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    gap: 20px;
+    padding: 50px;
+
+
+}
+.contain3{
+    display: flex;
+    align-content: center;
+    background-color:green;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    gap: 20px;
+    padding: 50px;
+
+
+}

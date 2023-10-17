@@ -1,0 +1,23 @@
+.blog{
+    background-color:brown;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 70px;
+
+
+}
+.blog2{
+    background-color: coral;
+    width: 700px;
+    height: 70px;
+    display: flex;
+    justify-content: baseline;
+    
+}
+.blog3{
+    background-color: brown;
+}
+.blog4{
+    margin-inline-end: auto;
+}

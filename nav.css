@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 40px;
+}
+
+.bar{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    background-color: green;
+    height: 50px;
+    color: white;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+ul{
+    display: flex;
+    gap: 90px;
+    margin-left: 50rem;
+}
+
+li{
+    list-style: none;
+    justify-content: flex-end;
+}
+@media screen and (min-width:414px) and (max-width:830px) {
+    .bar{
+          display: flex;
+          padding-right: 30px;
+
+    }
+    .logo{
+        width: 40px;
+    }
+
+    
+}

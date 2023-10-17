@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.collapse navbar-collapse{
+    padding-left: 200px;
+}
+.container-fluid{
+    background-color:blue;
+    height: 40px;
+    width: 1600px;
+    font-size: large;
+    padding-left: 800px;
+}
+.carousel-item active{
+    background-color: brown;
+}
+.carousel-inner{
+    background-color: black;
+    height: 500px;
+
+}
+.image{
+    height: 490px;
+    padding-left: 450px; 
+}
+.image2{
+    height: 490px;
+    padding-left: 450px; 
+}
+.image3{
+    height: 490px;
+    padding-left: 450px; 
+}

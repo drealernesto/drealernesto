@@ -1,0 +1,50 @@
+.container-fluid{
+    background-color: lightsteelblue;
+    height: 60px;
+    font-size: large;
+    display: flex;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    display: flex;
+    border-radius: 50px;
+}
+ul{
+    display: flex;
+    gap: 70px;
+    margin-top: 20PX;
+    margin-left: 10rem;
+    padding-left: 600px;
+}
+
+li{
+    list-style: none;
+    justify-content: flex-end;
+}
+.row{
+    text-decoration: none;
+}
+.row2{
+    text-decoration: none;
+}
+.row3{
+    text-decoration: none;
+}
+.row4{
+    text-decoration: none;
+}
+.row5{
+    text-decoration: none;
+}
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.nav{
+    padding-left: 700px;
+    height: 800px;
+    width: 100px;
+
+}
